@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<object name="portal_skins">
+    <object name="mini_audio_player"
+         meta_type="Filesystem Directory View"
+         directory="Products.MiniAudioPlayer:skins/mini_audio_player" />
+    <skin-path name="*">
+        <layer name="mini_audio_player" insert-after="custom"/>
+    </skin-path>
+</object>

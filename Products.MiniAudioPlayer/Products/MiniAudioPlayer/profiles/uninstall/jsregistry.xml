@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts" meta_type="JavaScripts Registry">
+ <javascript remove="True" id="++resource++products.miniaudioplayer/inc/jquery.mb.miniPlayer.js"/>
+ <javascript remove="True" id="++resource++products.miniaudioplayer/inc/jquery.jplayer.min.js"/>
+</object>
