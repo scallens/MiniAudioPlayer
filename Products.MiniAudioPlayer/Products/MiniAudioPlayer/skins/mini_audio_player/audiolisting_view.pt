@@ -21,7 +21,7 @@
                 width: 150,
                 showControls:false,
                 showVolumeLevel:false,
-                showRew:false,
+                showRew:true,
                 id3:true
             });
         });
